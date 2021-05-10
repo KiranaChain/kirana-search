@@ -28,7 +28,7 @@
     "elasticsearch": "^16.3.0",
     "express": "^4.17.1",
     "helmet": "^3.21.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "morgan": "^1.9.1",
     "node-env-file": "^0.1.8",
     "request": "^2.88.0",
